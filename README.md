@@ -332,7 +332,3 @@ The Bedrock download is pulled from Mojang's official link API. If Mojang change
 EULA acceptance is required for Java game servers; the deploy form won't let you create one without accepting it.
 
 ---
-
-## License
-
-MIT. Do whatever you want with it.
